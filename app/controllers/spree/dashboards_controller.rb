@@ -1,7 +1,7 @@
 module Spree
   class DashboardsController < Spree::StoreController
-    def index
+    respond_to :json
 
-    end
+    def index; end
   end
 end
