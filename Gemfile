@@ -12,5 +12,6 @@ gem 'rails-controller-testing'
 
 gem 'rubocop', require: false
 gem 'rubocop-rspec', require: false
+gem 'jbuilder', '~> 2.7'
 
 gemspec
